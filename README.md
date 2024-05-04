@@ -11,17 +11,6 @@
   
 <br />
 
-Live version: https://calories-in.com
-
-Demo video: https://tella.video/calories-in-4onp
-
-</div>
-
-## Background
-
-The idea was born out of my experience of trying to find a better alternative to Google Sheets for calculating the macros of my meal plans. I wanted to be able to do this on desktop as it's more convenient but nothing really felt fast and simple enough.
-
-A huge inspiration for me has been [excalidraw.com](http://excalidraw.com).
 
 ## Notable libraries
 
