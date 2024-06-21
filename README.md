@@ -3,7 +3,7 @@
     <img src="devices-preview.png" alt="Devices preview" />
   </a>
 </p>
-<h1 align="center">Calories-In</h1>
+<h1 align="center">Nutrients Revealer</h1>
 
 <div align="center">
 
